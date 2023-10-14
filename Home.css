@@ -599,12 +599,20 @@ p.u-align-justify.u-text.u-text-2.animated.customAnimationIn-played {
   .u-section-2 .u-text-1 {
     margin-left: 42px;
   }
-
+  .u-container-layout.u-container-layout-1 {
+    margin-top: 15px;
+}
+h2.u-align-center.u-text.u-text-default.u-text-1.animated.customAnimationIn-played {
+  margin-bottom: 15px;
+}
   .u-section-2 .u-text-2 {
     margin-left: 36px;
     margin-right: 36px;
   }
-
+  h4.u-align-justify.u-text.u-text-3.animated.customAnimationIn-played {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
   .u-section-2 .u-text-3 {
     margin-left: 36px;
     margin-right: 36px;
@@ -614,7 +622,7 @@ p.u-align-justify.u-text.u-text-2.animated.customAnimationIn-played {
     margin-right: 0px;
     margin-left: 48px;
   }
-
+  
   .u-section-2 .u-btn-1 {
     margin-top: 20px;
     margin-left: 36px;
